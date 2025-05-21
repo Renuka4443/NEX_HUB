@@ -41,5 +41,6 @@
 ## Visual overview of Nex_Hub:
 ![POSTER](https://github.com/user-attachments/assets/6ec94fb0-29b0-44f5-b9cc-7207e668beb5)
 
-
+ 
+https://github.com/user-attachments/assets/c5f41229-ad9b-4700-bee0-ce3cf9115dc2
 
