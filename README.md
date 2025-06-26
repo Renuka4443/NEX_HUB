@@ -35,7 +35,7 @@
 * **Frontend:** React.js
 * **Backend:** Node.js + Express
 * **Database:** Neo4j (Graph DB) with Cypher queries
-* **Auth & Profile Storage:** Supabase
+* **Auth & Profile Storage:** MongoDB
 * **Ranking Service:** Flask (Python) microservice for candidate fetching & custom ranking logic
 
 ## Visual overview of Nex_Hub:
